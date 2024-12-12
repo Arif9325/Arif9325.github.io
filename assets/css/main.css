@@ -170,6 +170,30 @@ h6 {
   max-height: 32px;
   margin-right: 8px;
 }
+.btn-hover-new{
+	color: #333333;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	position: relative;
+	border: 1px solid #333333;
+	overflow: hidden;
+	padding: 0px 18px;
+	display: inline-block;
+}
+
+.sim-btn{
+	line-height: 50px;
+	height: 50px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	cursor: pointer;
+}
+
+
 
 .header .logo h1 {
   font-size: 30px;
